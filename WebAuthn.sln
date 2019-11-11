@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAuthnAPI", "WebAuthnAPI\WebAuthnAPI.csproj", "{026D0AA1-E327-400F-97DA-2AA6AD0D0886}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginSite", "LoginSite\LoginSite.csproj", "{0C8C1D9D-C481-4493-AB8A-ECB5487B0568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026D0AA1-E327-400F-97DA-2AA6AD0D0886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026D0AA1-E327-400F-97DA-2AA6AD0D0886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026D0AA1-E327-400F-97DA-2AA6AD0D0886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026D0AA1-E327-400F-97DA-2AA6AD0D0886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8C1D9D-C481-4493-AB8A-ECB5487B0568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8C1D9D-C481-4493-AB8A-ECB5487B0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8C1D9D-C481-4493-AB8A-ECB5487B0568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8C1D9D-C481-4493-AB8A-ECB5487B0568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3122DC09-FC2C-48E9-9DCD-7B981540ED5E}
+	EndGlobalSection
+EndGlobal
